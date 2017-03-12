@@ -3,7 +3,7 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 //import java.lang.IllegalArgumentException;
-
+// this is the hash
 public class Birthday {
 	static String nameOfFile = "birthdayInputFile.txt";
 	
